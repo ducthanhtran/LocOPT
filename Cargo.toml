@@ -1,0 +1,9 @@
+[package]
+name = "binary"
+version = "0.0.1"
+authors = ["ducthanhtran"]
+
+[workspace]
+
+[dependencies]
+loc_opt = { path = "loc_opt" }
